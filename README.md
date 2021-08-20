@@ -5,10 +5,9 @@ View the test project by clicking this [Test Project Link](https://github.com/AC
 
 ### Project 1 - XYZ
 
-![img](img/footballgif1.gif) text
+![img](img/footballgif1.gif)
+![img](img/footballgif3.gif)
 
-<img align="right" src="img/footballgif1.gif" width=50.0%>
-<img align="right" src="img/footballgif3.gif" width=50.0%>
 
 You can use the [editor on GitHub](https://github.com/fanahanmc/fanahanmc.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
