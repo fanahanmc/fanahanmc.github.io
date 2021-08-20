@@ -1,4 +1,4 @@
-theme: jekyll-theme-minimal
-
 url: https://fanahanmc.github.io
 baseurl: /fanahanmc.github.io
+
+theme: jekyll-theme-minimal
