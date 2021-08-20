@@ -3,8 +3,7 @@
 
 View the test project by clicking this [Test Project Link](https://github.com/ACM40960/project-fanahanmc).
 
-text text
-<img align="right" src="img/footballgif1.gif" width=50.0%> text text
+<img align="right" src="img/footballgif1.gif" width=50.0%>
 <img align="right" src="img/footballgif2.gif" width=50.0%>
 <img align="right" src="img/footballgif3.gif" width=50.0%>
 
