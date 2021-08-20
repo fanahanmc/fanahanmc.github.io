@@ -1,13 +1,21 @@
-## Test Title
+# Test Title
 
 
-View the test project by clicking this [Test Project Link](https://github.com/ACM40960/project-fanahanmc).
 
-### Project 1 - XYZ
+## Monte Carlo Simulation of the Premier League - Python
+
+[GitHub Link](https://github.com/fanahanmc/ACM40960-ProjMathsModel).
+
+Text.
+
+## Football Trajectory Modelling - Mathematica
+
+[GitHub Link](https://github.com/fanahanmc/ACM40730-Project-Mathematica).
+
+Text.
 
 ![img](img/footballgif1.gif)
 ![img](img/footballgif3.gif)
-
 
 
 You can use the [editor on GitHub](https://github.com/fanahanmc/fanahanmc.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
