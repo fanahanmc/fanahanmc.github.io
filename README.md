@@ -3,10 +3,12 @@
 
 View the test project by clicking this [Test Project Link](https://github.com/ACM40960/project-fanahanmc).
 
-<img src="img/footballgif1.gif" width=50.0%>
+text text
+<img align="right" src="img/footballgif1.gif" width=50.0%> text text
 <img src="img/footballgif2.gif" width=50.0%>
 <img src="img/footballgif3.gif" width=50.0%>
 
+text text
 
 You can use the [editor on GitHub](https://github.com/fanahanmc/fanahanmc.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
