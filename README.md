@@ -8,7 +8,7 @@ View the test project by clicking this [Test Project Link](https://github.com/AC
 Text text text:
 ![alt text][logo]
 
-[logo]: https://github.com/fanahanmc/ACM40960-ProjMathsModel/blob/main/Images/AnacondaNavImg.png "logo title new"
+[logo]: /https://github.com/fanahanmc/ACM40960-ProjMathsModel/blob/main/Images/AnacondaNavImg.png "logo title new"
 
 You can use the [editor on GitHub](https://github.com/fanahanmc/fanahanmc.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
