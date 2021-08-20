@@ -7,7 +7,7 @@ View the test project by clicking this [Test Project Link](https://github.com/AC
 
 ![img](img/footballgif1.gif) text
 
-<img align="right" src="img/footballgif1.GIF" width=50.0%>
+<img align="right" src="img/footballgif1.gif" width=50.0%>
 <img align="right" src="img/footballgif3.gif" width=50.0%>
 
 You can use the [editor on GitHub](https://github.com/fanahanmc/fanahanmc.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
