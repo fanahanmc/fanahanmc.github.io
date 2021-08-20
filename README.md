@@ -3,6 +3,8 @@
 
 View the test project by clicking this [Test Project Link](https://github.com/ACM40960/project-fanahanmc).
 
+<p align="center"><img width=80.0% src="https://github.com/fanahanmc/ACM40960-ProjMathsModel/blob/main/Images/AnacondaNavImg.png"></p>
+
 <p align="center"><img width=50.0% src="https://github.com/ACM40960/project-fanahanmc/blob/main/Images/pointsprogression.gif"></p>
 
 Text text text:
