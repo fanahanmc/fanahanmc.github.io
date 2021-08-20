@@ -1,8 +1,7 @@
-#theme: jekyll-theme-minimal
+title: Fanahan McSweeney GitHub Pages Test 🧪 📝 🚀
+description: Test site built with Jekyll, a minimal theme and GH Pages
 
-url: https://fanahanmc.github.io
-baseurl: /fanahanmc.github.io
+email: fanahanmc@gmail.com
+github_username: fanahanmc
 
-permalink: pretty
-
-theme: minima
+theme: jekyll-theme-minimal
