@@ -3,7 +3,7 @@
 
 View the test project by clicking this [Test Project Link](https://github.com/ACM40960/project-fanahanmc).
 
-![image](footballgif3.gif)
+![image](img/footballgif3.gif)
 
 You can use the [editor on GitHub](https://github.com/fanahanmc/fanahanmc.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
