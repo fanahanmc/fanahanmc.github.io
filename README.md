@@ -3,6 +3,7 @@
 
 View the test project by clicking this [Test Project Link](https://github.com/ACM40960/project-fanahanmc).
 
+<p align="center"><img width=50.0% src="https://github.com/ACM40960/project-fanahanmc/blob/main/Images/pointsprogression.gif"></p>
 
 You can use the [editor on GitHub](https://github.com/fanahanmc/fanahanmc.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
