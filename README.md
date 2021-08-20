@@ -1,5 +1,5 @@
 # My Projects
-
+-------------
 ## Monte Carlo Simulation of the Premier League - Python
 
 [GitHub Link](https://github.com/fanahanmc/ACM40960-ProjMathsModel).
