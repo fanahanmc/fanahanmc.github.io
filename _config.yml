@@ -1,2 +1,8 @@
 #theme: jekyll-theme-minimal
+
+url: https://fanahanmc.github.io
+baseurl: /fanahanmc.github.io
+
+permalink: pretty
+
 theme: minima
