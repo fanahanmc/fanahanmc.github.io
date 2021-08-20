@@ -1,6 +1,10 @@
 title: Fanahan McSweeney GitHub Pages Test 🧪 📝 🚀
 description: Test site built with Jekyll, a minimal theme and GH Pages
 
+logo: /img/ds_logo.jpeg
+show_downloads: true
+google_analytics:
+
 email: fanahanmc@gmail.com
 github_username: fanahanmc
 
