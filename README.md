@@ -5,6 +5,8 @@ View the test project by clicking this [Test Project Link](https://github.com/AC
 
 ### Project 1 - XYZ
 
+![img](img/footballgif1.gif) text
+
 <img align="right" src="img/footballgif1.gif" width=50.0%>
 <img align="right" src="img/footballgif3.gif" width=50.0%>
 
