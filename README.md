@@ -3,6 +3,8 @@
 
 View the test project by clicking this [Test Project Link](https://github.com/ACM40960/project-fanahanmc).
 
+<img src="img/footballgif1.gif" width=50.0%>
+
 ![image](img/footballgif1.gif)
 ![image](img/footballgif2.gif)
 ![image](img/footballgif3.gif)
