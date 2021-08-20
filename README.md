@@ -10,7 +10,7 @@ Text text text:
 
 [logo]: https://github.com/fanahanmc/ACM40960-ProjMathsModel/blob/main/Images/AnacondaNavImg.png "test title"
 
-![image](https://github.com/fanahanmc/ACM40960-ProjMathsModel/blob/main/Images/AnacondaNavImg.png)
+![image](https://github.com/fanahanmc/fanahanmc.github.io/blob/main/footballgif3.gif)
 
 You can use the [editor on GitHub](https://github.com/fanahanmc/fanahanmc.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
