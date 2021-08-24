@@ -8,6 +8,7 @@ Text.
 
 ![img](img/pointsprogression.gif)
 
+-------------
 ## Football Trajectory Modelling - Mathematica
 
 [GitHub Link](https://github.com/fanahanmc/ACM40730-Project-Mathematica).
