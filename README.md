@@ -10,7 +10,7 @@ Add project description...
 ![img](img/pointsprogression.gif)
 
 -------------
-## Football Trajectory Modelling (Mathematica)
+## Football Trajectory Modelling and Simulation (Mathematica)
 
 [GitHub Link](https://github.com/fanahanmc/ACM40730-Project-Mathematica).
 
