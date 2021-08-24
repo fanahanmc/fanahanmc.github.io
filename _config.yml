@@ -1,12 +1,11 @@
 title: Fanahan McSweeney - My GitHub Portfolio
+logo: /img/mylogo.png
 description: > # your text below (remove <br> elements if you don't need line breaks)
   First description 
   <br><br>
   Second description 
   <br><br>
   <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
-  A selection of projects I developed while undertaking my Masters in Data & Computational Science in UCD...
-logo: /img/mylogo.png
 
 google_analytics:
 
