@@ -16,7 +16,7 @@ To take a quick look at the project, you can click on the following [HTML link](
 
 In this project, the trajectory of a football is modelled based on frames from a given video, using both object recognition and image processing techniques. The modelled trajectory is then simulated using a number of different visualisations, and estimates of speed, maximum height reached and total distance travelled are also calculated.
 
-Mathematica was used to develop this project, a very powerful mathematical computer program capable of generating complex interactive plots and visualisations. If you are lucky enough to have access to Mathatica, then you can find the Mathematica notebook and all image and video files used for the project in the following [GitHub repository](https://github.com/fanahanmc/football-flight-model-sim). Otherwise, you can view a PDF of the project notebook at the [following link](https://fanahanmc.github.io/PDF_files/ACM40730_Project_static.pdf), although without the interactive plotting capabilites.
+Mathematica was used to develop this project. If you are lucky enough to have access to Mathematica, then you can find the project notebook and all image and video files in the following [GitHub repository](https://github.com/fanahanmc/football-flight-model-sim). Otherwise, you can view a PDF of the project notebook including all output and plots at the [following link](https://fanahanmc.github.io/PDF_files/ACM40730_Project_static.pdf), albeit without the interactive elements.
 
 ![img](img/footballgif1.gif)
 ![img](img/footballgif5.gif)
