@@ -2,7 +2,7 @@
 -------------
 ## Monte Carlo Simulation of the English Premier League (Python)
 
-[GitHub Link](https://github.com/fanahanmc/ACM40960-ProjMathsModel).
+[GitHub Link](https://github.com/fanahanmc/epl-monte-carlo-sim).
 
 Add project description...
 
