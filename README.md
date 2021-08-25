@@ -1,5 +1,7 @@
 # My Portfolio
 -------------
+-------------
+
 ## Monte Carlo Simulation of the English Premier League (Python)
 
 This project explores the use of various Machine Learning algorithms in developing a model capable of simulating fixtures from the English Premier League over multiple seasons while achieving realistic results. The simulation of various betting models is also carried out, with the aim of evaluating the effect of different factors on overall profitability.
@@ -10,6 +12,7 @@ The project code is written in Python, within a Jupyer Notebook. To take a quick
 ![img](img/pointsprogression.gif)
 
 -------------
+
 ## Football Trajectory Modelling and Simulation (Mathematica)
 
 In this project, the trajectory of a football is modelled based on frames from a given video, using both object recognition and image processing techniques. The modelled trajectory is then simulated using a number of different visualisations, and estimates of speed, maximum height reached and total distance travelled are also calculated.
