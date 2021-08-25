@@ -16,7 +16,7 @@ Add project description...
 
 [View PDF Link](https://github.com/fanahanmc/football-flight-model-sim/blob/master/PDF_files/ACM40730_Project_static.pdf).
 
-[View PDF Link 2](<embed src="https://github.com/fanahanmc/football-flight-model-sim/blob/master/PDF_files/ACM40730_Project_static.pdf" type="application/pdf" />).
+<embed src="https://github.com/fanahanmc/football-flight-model-sim/blob/master/PDF_files/ACM40730_Project_static.pdf" type="application/pdf" />
 
 [GitHub Link](https://github.com/fanahanmc/football-flight-model-sim).
 
