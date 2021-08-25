@@ -14,7 +14,7 @@ Add project description...
 -------------
 ## Football Trajectory Modelling and Simulation (Mathematica)
 
-[View PDF Link](https://docs.google.com/viewer?url=https://github.com/fanahanmc/football-flight-model-sim/blob/master/PDF_files/ACM40730_Project_static.pdf).
+[View PDF Link](https://fanahanmc.github.io/PDF_files/ACM40730_Project_static.pdf).
 
 [GitHub Link](https://github.com/fanahanmc/football-flight-model-sim).
 
