@@ -13,6 +13,22 @@ The project code is written in Python, within a Jupyer Notebook. To take a quick
 
 -------------
 
+## Movie Review Classification using Statistical Machine Learnning (R)
+
+Add project description...
+
+The code (written in R) and project report were written within an Rmarkdown file. You can view the output PDF generated from the project at the [following link](https://fanahanmc.github.io/PDF_files/STAT30270_FinalAssignment.pdf). If you would like to run the code yourself, you can access the .rmd file and data files at the following GitHub repository... 
+
+-------------
+
+## Human Activity Classification using Neural Networks (R)
+
+Add project description...
+
+The code (written in R) and project report were written within an Rmarkdown file. You can view the output PDF generated from the project at the [following link](https://fanahanmc.github.io/PDF_files/STAT40970_EOT_Assignment_FMS.pdf). If you would like to run the code yourself, you can access the .rmd file and data files at the following GitHub repository... 
+
+-------------
+
 ## Football Trajectory Modelling and Simulation (Mathematica)
 
 In this project, the trajectory of a football is modelled based on frames from a given video, using both object recognition and image processing techniques. The modelled trajectory is then simulated using a number of different visualisations, and estimates of speed, maximum height reached and total distance travelled are also calculated.
@@ -21,6 +37,22 @@ Mathematica was used to develop this project. If you are lucky enough to have ac
 
 ![img](img/footballgif1.gif)
 ![img](img/footballgif5.gif)
+
+-------------
+
+## Statistical Analysis of the English Premier League (R)
+
+Add project description...
+
+The code (written in R) and project report were written within an Rmarkdown file. You can view the output PDF generated from the project at the [following link](https://fanahanmc.github.io/PDF_files/STAT40620_Project_FMS.pdf). If you would like to run the code yourself, you can access the .rmd file and data files at the following GitHub repository... 
+
+-------------
+
+## Classification of Rooms/Scenes using Convolutional Neural Networks (R)
+
+Add project description...
+
+The code (written in R) and project report were written within an Rmarkdown file. You can view the output PDF generated from the project at the [following link](https://fanahanmc.github.io/PDF_files/STAT40970_Assignment3.pdf). If you would like to run the code yourself, you can access the .rmd file and data files at the following GitHub repository... 
 
 -------------
 
