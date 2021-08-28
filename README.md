@@ -1,6 +1,5 @@
 # My Portfolio
 -------------
--------------
 
 ## Monte Carlo Simulation of the English Premier League (Python)
 
