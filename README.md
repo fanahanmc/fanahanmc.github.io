@@ -12,7 +12,7 @@ The project code is written in Python, within a Jupyer Notebook. To take a quick
 
 -------------
 
-## Movie Review Classification using Statistical Machine Learnning (R)
+## Movie Review Classification using Statistical Machine Learning (R)
 
 Add project description...
 
@@ -25,6 +25,8 @@ The code (written in R) and project report were written within an Rmarkdown file
 Add project description...
 
 The code (written in R) and project report were written within an Rmarkdown file. You can view the output PDF generated from the project at the [following link](https://fanahanmc.github.io/PDF_files/STAT40970_EOT_Assignment_FMS.pdf). If you would like to run the code yourself, you can access the .rmd file and data files at the following GitHub repository... 
+
+![img](img/MLAI_proj1.png)
 
 -------------
 
@@ -52,6 +54,8 @@ The code (written in R) and project report were written within an Rmarkdown file
 Add project description...
 
 The code (written in R) and project report were written within an Rmarkdown file. You can view the output PDF generated from the project at the [following link](https://fanahanmc.github.io/PDF_files/STAT40970_Assignment3.pdf). If you would like to run the code yourself, you can access the .rmd file and data files at the following GitHub repository... 
+
+![img](img/MLAI_proj2.png)
 
 -------------
 
