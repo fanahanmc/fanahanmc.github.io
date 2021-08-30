@@ -24,7 +24,7 @@ The code (written in R) and project report were written within an Rmarkdown file
 
 Add project description...
 
-The code (written in R) and project report were written within an Rmarkdown file. You can view the output PDF generated from the project at the [following link](https://fanahanmc.github.io/PDF_files/STAT40970_EOT_Assignment_FMS.pdf). If you would like to run the code yourself, you can access the .rmd file and data files at the following GitHub repository... 
+The code (written in R) and project report were written within an Rmarkdown file. You can view the output PDF generated from the project at the [following link](https://fanahanmc.github.io/PDF_files/STAT40970_EOT_Assignment_FMS.pdf). If you would like to run the code yourself, you can access the .rmd file and data files at the following [GitHub repository](https://github.com/fanahanmc/activity-classification-nnet).
 
 ![img](img/MLAI_proj1.png)
 
