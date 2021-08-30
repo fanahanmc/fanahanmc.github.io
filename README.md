@@ -45,7 +45,7 @@ Mathematica was used to develop this project. If you are lucky enough to have ac
 
 Add project description...
 
-The code (written in R) and project report were written within an Rmarkdown file. You can view the output PDF generated from the project at the [following link](https://fanahanmc.github.io/PDF_files/STAT40620_Project_FMS.pdf). If you would like to run the code yourself, you can access the .rmd file and data files at the following GitHub repository... 
+The code (written in R) and project report were written within an Rmarkdown file. You can view the output PDF generated from the project at the [following link](https://fanahanmc.github.io/PDF_files/STAT40620_Project_FMS.pdf). If you would like to run the code yourself, you can access the .rmd file and data files at the following [GitHub repository](https://github.com/fanahanmc/epl-stat-analysis).
 
 -------------
 
@@ -53,7 +53,7 @@ The code (written in R) and project report were written within an Rmarkdown file
 
 Add project description...
 
-The code (written in R) and project report were written within an Rmarkdown file. You can view the output PDF generated from the project at the [following link](https://fanahanmc.github.io/PDF_files/STAT40970_Assignment3.pdf). If you would like to run the code yourself, you can access the .rmd file and data files at the following GitHub repository... 
+The code (written in R) and project report were written within an Rmarkdown file. You can view the output PDF generated from the project at the [following link](https://fanahanmc.github.io/PDF_files/STAT40970_Assignment3.pdf). If you would like to run the code yourself, you can access the .rmd file and data files at the following [GitHub repository](https://github.com/fanahanmc/rooms-classification-cnn).
 
 ![img](img/MLAI_proj2.png)
 
