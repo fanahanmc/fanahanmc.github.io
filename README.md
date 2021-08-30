@@ -61,5 +61,5 @@ The code (written in R) and project report were written within an Rmarkdown file
 
 If you are also interested in seeing my very basic video editing skills, you can click on the image below to view a short video I made as part of an assignment which gives a high level overview of why I chose to do the English Premier League simulation project mentioned earlier.
 
-[![IMAGE ALT TEXT](mylogo.png)](https://www.youtube.com/watch?v=1hUX5G45lYE)
+[![IMAGE ALT TEXT](img/mylogo.png)](https://www.youtube.com/watch?v=1hUX5G45lYE)
 
