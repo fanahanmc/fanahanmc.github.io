@@ -14,7 +14,7 @@ The project code is written in Python, within a Jupyer Notebook. To take a quick
 
 ## Movie Review Classification using Statistical Machine Learning (R)
 
-Add project description...
+This project looks at classifing movie reviews as either positive or negative based on a number of different features, using different machine learning algorithms such as random forests and support vector machines.
 
 The code (written in R) and project report were written within an Rmarkdown file. You can view the output PDF generated from the project at the [following link](https://fanahanmc.github.io/PDF_files/STAT30270_FinalAssignment.pdf). If you would like to run the code yourself, you can access the .rmd file and data files at the following [GitHub repository](https://github.com/fanahanmc/movie-review-classification).
 
@@ -22,7 +22,7 @@ The code (written in R) and project report were written within an Rmarkdown file
 
 ## Human Activity Classification using Neural Networks (R)
 
-Add project description...
+The aim of this project was to develop a suitable model for classifying activities being performed by a subject, based on sensor data recorded while performing each of the activities. A number of different models were considered, including convolutional and recurrent neural networks.
 
 The code (written in R) and project report were written within an Rmarkdown file. You can view the output PDF generated from the project at the [following link](https://fanahanmc.github.io/PDF_files/STAT40970_EOT_Assignment_FMS.pdf). If you would like to run the code yourself, you can access the .rmd file and data files at the following [GitHub repository](https://github.com/fanahanmc/activity-classification-nnet).
 
@@ -43,7 +43,7 @@ Mathematica was used to develop this project. If you are lucky enough to have ac
 
 ## Statistical Analysis of the English Premier League (R)
 
-Add project description...
+I completed this project during the first term of my master's program. In the first section of the R markdown document I performed a general statistical analysis on the Premier League. I then gave a demonstration of the DataExplorer, an R package which can be used to automate the process of exploratory data analysis. Finally, I developed a package of functions which can be used to perform forward stepwise AIC regression.
 
 The code (written in R) and project report were written within an Rmarkdown file. You can view the output PDF generated from the project at the [following link](https://fanahanmc.github.io/PDF_files/STAT40620_Project_FMS.pdf). If you would like to run the code yourself, you can access the .rmd file and data files at the following [GitHub repository](https://github.com/fanahanmc/epl-stat-analysis).
 
@@ -51,7 +51,7 @@ The code (written in R) and project report were written within an Rmarkdown file
 
 ## Classification of Rooms/Scenes using Convolutional Neural Networks (R)
 
-Add project description...
+In this project, I developed a suitable convolutional neural network capable of performing the difficult task of classifying rooms and indoor scenes based off images.
 
 The code (written in R) and project report were written within an Rmarkdown file. You can view the output PDF generated from the project at the [following link](https://fanahanmc.github.io/PDF_files/STAT40970_Assignment3.pdf). If you would like to run the code yourself, you can access the .rmd file and data files at the following [GitHub repository](https://github.com/fanahanmc/rooms-classification-cnn).
 
