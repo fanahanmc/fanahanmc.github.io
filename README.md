@@ -59,6 +59,14 @@ The code (written in R) and project report were written within an Rmarkdown file
 
 -------------
 
+## Exploratory Data Analysis of Milk Samples (R)
+
+Using a dataset obtained from Teagasc relating to cow milk samples, I performed an exploratory data analysis using R as part of a Multivariate Analysis module assignment. The project also looks at the application of clustering and classification algorithms to find new insights relating to the milk data.
+
+The code (written in R) and project report were written within an Rmarkdown file. You can view the output PDF generated from the project at the [following link](https://fanahanmc.github.io/PDF_files/STAT40150_A1.pdf). If you would like to run the code yourself, you can access the .rmd file and data files at the following [GitHub repository](https://github.com/fanahanmc/milk-samples-analysis).
+
+-------------
+
 If you are also interested in seeing my very basic video editing skills, you can click on the image below to view a short video I made as part of an assignment which gives a high level overview of why I chose to do the English Premier League simulation project mentioned earlier.
 
 [![IMAGE ALT TEXT](img/videoscreenshot.png)](https://www.youtube.com/watch?v=1hUX5G45lYE)
